@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="images/store-logo.webp" height="128">
   <h1 align="center">Raycast Extensions</h1>
 </p>
